@@ -16,9 +16,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
-        </a>
       <h1>{config.baseUrl}</h1>
+        </a>
       </header>
     </div>
   );
